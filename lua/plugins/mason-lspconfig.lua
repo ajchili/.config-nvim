@@ -14,6 +14,7 @@ return {
 			"cssls",
 			"eslint",
 			"html",
+			"java_language_server",
 			"jsonls",
 			"lua_ls",
 			"pyright",
